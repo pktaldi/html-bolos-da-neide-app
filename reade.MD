@@ -1,4 +1,4 @@
-cliente (id_cliente, nome, cpf, email, localização)
+cliente (id_cliente, nome, cpf, email)
  |
  |
  |
